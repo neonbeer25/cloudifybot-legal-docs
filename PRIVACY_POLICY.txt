@@ -1,0 +1,28 @@
+Privacy Policy
+
+At Cloudify Bot, your privacy is very important to us. This policy explains how we collect, use, and protect your data.
+
+1. Data We Collect
+- We collect minimal information needed to operate the bot, such as your Discord user ID and any information you provide voluntarily (e.g., email for verification).
+- We do not collect sensitive personal data without your explicit consent.
+
+2. How We Use Your Data
+- To provide and improve bot services.
+- To verify your identity if using email verification.
+- To communicate important updates or messages related to the bot.
+
+3. Data Sharing
+- We do NOT share your personal data with third parties, except if required by law.
+
+4. Data Security
+- We take reasonable measures to protect your data from unauthorized access.
+
+5. Your Rights
+- You can request deletion of your data by contacting the server administrators.
+
+6. Changes to This Policy
+- We may update this Privacy Policy occasionally. Please review it periodically.
+
+Thank you for trusting Cloudify Bot with your information.
+
+For questions or concerns, contact the server administrators.

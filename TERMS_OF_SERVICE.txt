@@ -1,0 +1,25 @@
+Terms of Service
+
+Welcome to Cloudify Bot! By using this bot, you agree to comply with and be bound by the following terms and conditions. Please read them carefully.
+
+1. Usage
+- You agree to use this bot responsibly and not for any unlawful or harmful purposes.
+- The bot owner reserves the right to suspend or ban users who violate rules or misuse the bot.
+
+2. Content
+- The bot may provide links or content from third-party services; we are not responsible for their content.
+- You are responsible for what you share or submit while using the bot.
+
+3. Privacy and Data
+- Please review our Privacy Policy to understand how your data is handled.
+
+4. No Warranty
+- The bot is provided "as is" without any guarantees or warranties.
+- We are not liable for any damages resulting from the use or inability to use the bot.
+
+5. Changes
+- We may update these Terms of Service at any time. Continued use of the bot means you accept the updated terms.
+
+Thank you for using Cloudify Bot!
+
+If you have any questions, contact the server administrators.
